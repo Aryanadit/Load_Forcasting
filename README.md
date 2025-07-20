@@ -98,7 +98,7 @@ The notebook includes **plots of actual vs forecasted load**, feature importance
 ## 🙋 Author & Contact
 
 **Aryan Adit**  
-[GitHub](https://github.com/Aryanadit) | [LinkedIn](https://linkedin.com/in/aryanadit)  
+[GitHub](https://github.com/Aryanadit) 
 Open to feedback, collaboration, and improvements!
 
 ---
